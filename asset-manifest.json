@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolia-/static/css/main.b7fe2e5e.css",
+    "main.js": "/portfolia-/static/js/main.6cc4a60e.js",
+    "index.html": "/portfolia-/index.html",
+    "main.b7fe2e5e.css.map": "/portfolia-/static/css/main.b7fe2e5e.css.map",
+    "main.6cc4a60e.js.map": "/portfolia-/static/js/main.6cc4a60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fe2e5e.css",
+    "static/js/main.6cc4a60e.js"
+  ]
+}
